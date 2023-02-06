@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transaction-manager/static/css/main.7acaea2f.css",
+    "main.js": "/transaction-manager/static/js/main.07d3183d.js",
+    "index.html": "/transaction-manager/index.html",
+    "main.7acaea2f.css.map": "/transaction-manager/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/transaction-manager/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
